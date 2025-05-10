@@ -119,7 +119,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/bbuddy.png",
+      image: "/BBuddy.png",
     },
     {
       title: "Code Review",
